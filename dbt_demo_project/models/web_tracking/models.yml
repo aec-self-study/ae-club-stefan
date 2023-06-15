@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: site_visits
+    description: stores the visits of a customer based on a unique visitor_id
